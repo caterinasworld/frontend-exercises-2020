@@ -24,7 +24,7 @@ remote: Compressing objects: 100% (6/6), done.
 remote: Total 8 (delta 1), reused 0 (delta 0), pack-reused 0
 Unpacking objects: 100% (8/8), done.
 ```
-2. Navigate into your newly created `homework` folder and rename the remote.
+2. Navigate into your newly created `frontend-homework` folder and rename the remote.
 
 ```console
 $ cd frontend-homework/
