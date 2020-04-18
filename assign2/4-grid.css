@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  font-size: 1.3em;
+}
+
+.grid-item {
+  padding: 10px;
+  background-color: purple;
+  color: white;
+  text-align: center;
+}
+
+/* Add your code here */
