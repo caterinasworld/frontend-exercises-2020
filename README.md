@@ -16,9 +16,13 @@
 - Bootstrap Grid exercise
 
 ### Assignment 3 - JavaScript 
-- to be posted week #5
-
-### Assignment 4 - React 
-- to be posted week #6
+- Form exercise
+- URL exercise
+- Count exercise
+- RegEx exercise
+- Palindrome exercise
+- Background exercise
+- API exercise
+- Charts exercise
 
 Check D2L or Drive for more details on each assignment
