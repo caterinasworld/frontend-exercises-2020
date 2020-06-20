@@ -1,0 +1,9 @@
+body {
+  font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 1.1em;
+  color: #dedede;
+}
+
+nav {
+  background-image: linear-gradient(to right, rgb(1, 73, 73) 20%, black);
+}

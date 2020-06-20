@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  font-size: 1.3em;
+}
+
+.flex-item {
+  width: 200px;
+  height: 100px;
+  margin: 1px;
+  padding: 10px;
+  background-color: purple;
+  color: white;
+  text-align: center;
+}
+
+.flex-container {
+  height: 400px;
+}
+
+/* Add your code here */
