@@ -2,20 +2,17 @@
 
 ### Assignment 1 - HTML and CSS
 - CSS Selectors exercise
-- Navbar exercise
 - Filter exercise
 - Table exercise
 - Form exercise
-
-### Assignment 2 - Layouts
+- Flexbox Intro exercise
+- Navbar exercise
 - Flexbox exercise
-- Flexbox exercise
-- CSS Grid exercise
 - CSS Grid exercise
 - Flexbox and CSS Grid exercise
 - Bootstrap Grid exercise
 
-### Assignment 3 - JavaScript 
+### Assignment 2 - JavaScript 
 - Form exercise
 - URL exercise
 - Count exercise
