@@ -43,7 +43,7 @@ upstream	https://github.com/caterinasworld/frontend-exercises.git (push)
 3. Create a __private repo__, add collaborators, that add repo as a remote. 
 
 ```console
-$ git remote add origin https://github.com/caterinasworld/frontend-exercises.git
+$ git remote add origin https://github.com/student/private-repo-hw.git
 
 $ git remote -v
 origin	  https://github.com/student/private-repo-hw.git (fetch)
