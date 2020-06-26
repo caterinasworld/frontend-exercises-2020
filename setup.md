@@ -40,7 +40,11 @@ upstream	https://github.com/caterinasworld/frontend-exercises.git (fetch)
 upstream	https://github.com/caterinasworld/frontend-exercises.git (push)
 ```
 
-3. Create a __private repo__, add collaborators, that add repo as a remote. 
+
+4. Navigate to your account on GitHub and create a **private repo**.
+5. Add collaborator(s).
+6. Add the GitHub repo that you created as a remote.
+
 
 ```console
 $ git remote add origin https://github.com/student/private-repo-hw.git
@@ -52,7 +56,7 @@ upstream	hhttps://github.com/caterinasworld/frontend-exercises.git (fetch)
 upstream	https://github.com/caterinasworld/frontend-exercises.git (push)
 ```
 
-4. Push the files you cloned into your newly created private remote.
+7. Push the files you cloned into your newly created private remote.
 
 ```console
 $ git push -u origin master
@@ -65,4 +69,11 @@ Total 8 (delta 1), reused 0 (delta 0)
 remote: Resolving deltas: 100% (1/1), done.
  * [new branch]      master -> master
 Branch 'master' set up to track remote branch 'master' from 'origin'.
+```
+
+
+8. Once you have specified the upstream, you can push changes to the origin remote.
+
+```console
+$ git push
 ```
