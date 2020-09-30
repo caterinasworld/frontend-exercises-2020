@@ -50,7 +50,9 @@ upstream	https://github.com/caterinasworld/frontend-exercises.git (push)
 
 
 4. Navigate to your account on GitHub and create a **private repo**.
+
 5. Add collaborator(s).
+
 6. Add the GitHub repo that you created as a remote.
 
 
