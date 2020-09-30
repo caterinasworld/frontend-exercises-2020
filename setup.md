@@ -1,4 +1,4 @@
-## Setup for Frontend
+## Setup Instructions
 
 ### Installation
 
@@ -8,7 +8,7 @@
 
     - Launch VS Code from the command line: https://code.visualstudio.com/docs/editor/command-line#_launching-from-command-line
   
-    - Install the following extensions to start with
+    - Install the following extensions to start with:
       - Live Server
       - Prettier
       - ESLint
